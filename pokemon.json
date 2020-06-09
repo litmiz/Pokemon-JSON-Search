@@ -1,4 +1,4 @@
-{
+const pokemons = {
     "version": 1,
     "pokemons": [
         {

@@ -16,3 +16,20 @@ button {
     width: 100px;
     height: 38px; 
 }
+
+.showDiv h2 {
+    text-align: center;
+    color: black;
+    font-size: 38px;
+    text-decoration: underline;
+}
+
+.showDiv p {
+    text-align: center;
+    color: black;
+    font-size: 22px;
+}
+
+.showDiv hr {
+    width: 800px;
+}
